@@ -9,4 +9,6 @@
         <li>Simple, clean user interface with clickable buttons for each action.</li>
         <li>Handles errors and provides user feedback using snackbars when a URL can't be launched.</li>
     </ul>
-[https://github.com/user-attachments/assets/03fc9f31-d8aa-485f-b9ec-cd97af930f23](https://github-production-user-asset-6210df.s3.amazonaws.com/80013677/378125333-03fc9f31-d8aa-485f-b9ec-cd97af930f23.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241019T221259Z&X-Amz-Expires=300&X-Amz-Signature=943eb742ae35470330013d37fc5249c0600ef144c573b6a92d66e2cd45f618e8&X-Amz-SignedHeaders=host)
+
+
+![url launcher](https://github.com/user-attachments/assets/5fb9d460-c85b-4eb0-bf40-949a5142bb1d)
