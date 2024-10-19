@@ -9,3 +9,4 @@
         <li>Simple, clean user interface with clickable buttons for each action.</li>
         <li>Handles errors and provides user feedback using snackbars when a URL can't be launched.</li>
     </ul>
+https://github.com/user-attachments/assets/03fc9f31-d8aa-485f-b9ec-cd97af930f23
